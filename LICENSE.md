@@ -1,4 +1,4 @@
-# 
+# Instantané AI Plagiarism Checker modèles. Avec apprentissage par transfert et éthique de l'IA — optimisé pour des performances maximales.
 
 
 
